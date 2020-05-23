@@ -7,8 +7,8 @@ vue2.0 + vue-router + vuex + axios + mock.js(模拟数据) + ES6 + less
 
 ## 简介
 
-1.Vue + Mint-ui实现首页商城商品展示，商品列表，商品详情，订单提交
-2.vuex + webStorage 实现了购物车功能,axios拦截,配合路由钩子函数实现权限控制、登录、登出功能
+1. Vue + Mint-ui实现首页商城商品展示，商品列表，商品详情，订单提交
+2. vuex + webStorage 实现了购物车功能,axios拦截,配合路由钩子函数实现权限控制、登录、登出功能
 
 ## 预览
 
